@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          FECOLITHS: Fertilizing the metaverse with meme poo art. Just for fun!
+          Start fertilizing web3 by minting your fecolith!
         </p>
         <a
           className="App-link"
@@ -15,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          MINT
         </a>
       </header>
     </div>
