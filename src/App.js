@@ -19,7 +19,7 @@ function App() {
               </p>
         <a
           className="App-link"
-          href="https://www.fecoliths.com/mint"
+          href="https://etherscan.io/address/0xd03b4d6fa512f960fd815c1a4f100f056bfe8eae#writeContract"
           target="_blank"
           rel="noopener noreferrer"
         >
