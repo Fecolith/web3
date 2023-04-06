@@ -7,14 +7,19 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          FECOLITHS: Fertilizing the metaverse with meme poo art. Just for fun!
+            </p>
+        <p>
+            FECOLITHS
+            </p>
+        <p>
+            Fertilizing the metaverse with meme poo art. Just for fun!
             </p>
         <p>
             Start fertilizing web3 by minting your fecolith!
               </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.fecoliths.com/mint"
           target="_blank"
           rel="noopener noreferrer"
         >
