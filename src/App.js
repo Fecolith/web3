@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './main2.jpeg';
 import './App.css';
 
 function App() {
@@ -8,8 +8,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           FECOLITHS: Fertilizing the metaverse with meme poo art. Just for fun!
-          Start fertilizing web3 by minting your fecolith!
-        </p>
+            </p>
+        <p>
+            Start fertilizing web3 by minting your fecolith!
+              </p>
         <a
           className="App-link"
           href="https://reactjs.org"
